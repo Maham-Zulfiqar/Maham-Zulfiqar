@@ -37,7 +37,7 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="sadia-saif" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sadia-saif?trk=profile-badge">Maham Zulfiqar</a></div>
               
-<a href="https://github.com/Sadia-Saif">
+<a href="https://github.com/Maham-Zulfiqar/Maham-Zulfiqar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Saif&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Maham-Zulfiqar/Maham-Zulfiqar/">
